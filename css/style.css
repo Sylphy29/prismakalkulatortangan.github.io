@@ -55,7 +55,12 @@ body {
   color: #ff4500;
   padding-top: 5%;
 }
-
+.top-img {
+  width: 100%;
+}
+.bottom-img {
+  width: 100%;
+}
 .promo-title {
   font-size: 50px;
   font-weight: bolder;
